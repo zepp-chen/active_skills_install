@@ -1,0 +1,2 @@
+# active_skills_install
+用于安装active_skills 目录下的skills
